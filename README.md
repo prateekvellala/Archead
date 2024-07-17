@@ -1,5 +1,5 @@
 # Archead
-Archead is a cross-platform program that allows you to control your computer using head movements and facial expressions.
+Archead is a cross-platform program that allows you to control your computer entirely using head movements and facial expressions.
 
 <br>
 
